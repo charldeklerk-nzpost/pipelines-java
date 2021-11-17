@@ -1,3 +1,4 @@
+[![Build Status](https://charldeklerk.visualstudio.com/pipelines-java/_apis/build/status/charldeklerk-nzpost.pipelines-java?branchName=master)](https://charldeklerk.visualstudio.com/pipelines-java/_build/latest?definitionId=12&branchName=master)
 
 # Contributing
 
